@@ -1,0 +1,4 @@
+go-client/go-client
+go-server/go-server
+vendor
+go.sum
